@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Koulen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Konkhmer+Sleokchher&family=Koulen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dangrek&family=Konkhmer+Sleokchher&family=Koulen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Metal&display=swap');
+
+
+#f1{
+    font-family: "Koulen", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+#f2{
+    font-family: "Konkhmer Sleokchher", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 100px;
+}
+#f3{
+    font-family: "Dangrek", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+#f4{
+    font-family: "Metal", serif;
+    font-weight: 400;
+    font-style: normal;
+}
